@@ -167,6 +167,8 @@ void Player::sort(CollidingSprite* sprites[], int arr[], float elapsedTime) {
 			}
 		}
 
+		//git commit
+
 		//done checking as not moving past anything period
 		//was in for loop but needs to be here becase may 
 		//be case where loop doesn't run due to "out of bounds"
